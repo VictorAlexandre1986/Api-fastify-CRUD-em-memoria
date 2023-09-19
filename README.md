@@ -9,3 +9,8 @@ Uma api utilizando o node com o micro-framework fastify fazendo um crud em memó
   <li>Node.js</li>
   <li>Fastify</li>
 </ul>
+
+## Para rodar a api digite:
+```
+npm run dev
+```
